@@ -1,0 +1,12 @@
+name: plagr
+title: plagr
+username:
+account: plagr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 945246
+bundleId: 2116247
+url: https://plagr.shinyapps.io/plagr/
+when: 1559147945.63328
+asMultiple: FALSE
+asStatic: FALSE
